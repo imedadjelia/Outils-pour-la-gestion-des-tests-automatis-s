@@ -22,8 +22,8 @@ def test_form_submission(driver):
     driver.get("https://demoqa.com/text-box")
     
     # Remplir les champs du formulaire
-    driver.find_element(By.ID, "userName").send_keys("John Doe")
-    driver.find_element(By.ID, "userEmail").send_keys("john.doe@example.com")
+    driver.find_element(By.ID, "userName").send_keys("Medadjelia Ilyes")
+    driver.find_element(By.ID, "userEmail").send_keys("test.test@example.com")
     driver.find_element(By.ID, "currentAddress").send_keys("123 Rue de Paris")
     driver.find_element(By.ID, "permanentAddress").send_keys("456 Rue de Lyon")
     
@@ -35,7 +35,7 @@ def test_form_submission(driver):
     submit_button.click()
     
     # Vérifier les valeurs saisies
-    assert "John Doe" in driver.find_element(By.ID, "name").text
-    assert "john.doe@example.com" in driver.find_element(By.ID, "email").text
+    assert "Medadjelia Ilyes" in driver.find_element(By.ID, "name").text
+    assert "test.test@example.com" in driver.find_element(By.ID, "email").text
     assert "123 Rue de Paris" in driver.find_element(By.ID, "output").text
     assert "456 Rue de Lyon" in driver.find_element(By.ID, "output").text
