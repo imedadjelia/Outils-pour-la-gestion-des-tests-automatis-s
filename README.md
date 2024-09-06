@@ -8,7 +8,7 @@ Dans le cadre du module Méthodes et outils pour la gestion des tests automatis�
  
 ## Mes réalisations
 
-* [Script selenium de l'automatisation](https://github.com/imedadjelia/Outils-pour-la-gestion-des-tests-automatises/blob/main/test_text1-box.py) 
+* [Script selenium](https://github.com/imedadjelia/Outils-pour-la-gestion-des-tests-automatises/blob/main/test_text1-box.py) 
 
 * Illustration visuelle des tests automatisés : 
 
