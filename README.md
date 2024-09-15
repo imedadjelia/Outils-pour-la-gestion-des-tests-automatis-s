@@ -12,6 +12,6 @@ Dans le cadre du module Méthodes et outils pour la gestion des tests automatis�
 
 * La visualisation des tests automatisés que j'ai réalisée
 
-![image](https://github.com/imedadjelia/Outils-pour-la-gestion-des-tests-automatises/blob/main/ezgif-5-5ae560cd45.gif?raw=true)
+![image](https://github.com/imedadjelia/Outils-pour-la-gestion-des-tests-automatises/blob/main/Capture%20vid%C3%A9o.gif?raw=true)
 
 
